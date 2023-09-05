@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Esppes / Cezário
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python and english language
+- 👀 I’m interested in vaga na MICROSOFT
+- 🌱 I’m currently learning C/C++ and english language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pelo meu email:  gomescezario40@gmail.com
